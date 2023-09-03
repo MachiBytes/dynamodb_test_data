@@ -1,0 +1,777 @@
+[
+  {
+    "clubId": {
+      "S": "AWS-CC-2023-0001"
+    },
+    "fullName": {
+      "S": "Lisa Borum"
+    },
+    "nicknames": {
+      "L": [
+        {
+          "S": "Lisa"
+        },
+        {
+          "S": "Borum"
+        }
+      ]
+    },
+    "age": {
+      "N": "22"
+    },
+    "contacts": {
+      "M": {
+        "phoneNumber": {
+          "S": "09135823686"
+        },
+        "email": {
+          "S": "LisaBorum@gmail.com"
+        }
+      }
+    }
+  },
+  {
+    "clubId": {
+      "S": "AWS-CC-2023-0002"
+    },
+    "fullName": {
+      "S": "Patricia Butts"
+    },
+    "nicknames": {
+      "L": [
+        {
+          "S": "Patricia"
+        },
+        {
+          "S": "Butts"
+        }
+      ]
+    },
+    "age": {
+      "N": "18"
+    },
+    "contacts": {
+      "M": {
+        "phoneNumber": {
+          "S": "09380097155"
+        },
+        "email": {
+          "S": "PatriciaButts@gmail.com"
+        }
+      }
+    }
+  },
+  {
+    "clubId": {
+      "S": "AWS-CC-2023-0003"
+    },
+    "fullName": {
+      "S": "Robert Mccloud"
+    },
+    "nicknames": {
+      "L": [
+        {
+          "S": "Robert"
+        },
+        {
+          "S": "Mccloud"
+        }
+      ]
+    },
+    "age": {
+      "N": "19"
+    },
+    "contacts": {
+      "M": {
+        "phoneNumber": {
+          "S": "09351602711"
+        },
+        "email": {
+          "S": "RobertMccloud@gmail.com"
+        }
+      }
+    }
+  },
+  {
+    "clubId": {
+      "S": "AWS-CC-2023-0004"
+    },
+    "fullName": {
+      "S": "Irene Moran"
+    },
+    "nicknames": {
+      "L": [
+        {
+          "S": "Irene"
+        },
+        {
+          "S": "Moran"
+        }
+      ]
+    },
+    "age": {
+      "N": "22"
+    },
+    "contacts": {
+      "M": {
+        "phoneNumber": {
+          "S": "09586902026"
+        },
+        "email": {
+          "S": "IreneMoran@gmail.com"
+        }
+      }
+    }
+  },
+  {
+    "clubId": {
+      "S": "AWS-CC-2023-0005"
+    },
+    "fullName": {
+      "S": "Nina Cadiz"
+    },
+    "nicknames": {
+      "L": [
+        {
+          "S": "Nina"
+        },
+        {
+          "S": "Cadiz"
+        }
+      ]
+    },
+    "age": {
+      "N": "22"
+    },
+    "contacts": {
+      "M": {
+        "phoneNumber": {
+          "S": "09658335503"
+        },
+        "email": {
+          "S": "NinaCadiz@gmail.com"
+        }
+      }
+    }
+  },
+  {
+    "clubId": {
+      "S": "AWS-CC-2023-0006"
+    },
+    "fullName": {
+      "S": "Robert Trout"
+    },
+    "nicknames": {
+      "L": [
+        {
+          "S": "Robert"
+        },
+        {
+          "S": "Trout"
+        }
+      ]
+    },
+    "age": {
+      "N": "18"
+    },
+    "contacts": {
+      "M": {
+        "phoneNumber": {
+          "S": "09343665625"
+        },
+        "email": {
+          "S": "RobertTrout@gmail.com"
+        }
+      }
+    }
+  },
+  {
+    "clubId": {
+      "S": "AWS-CC-2023-0007"
+    },
+    "fullName": {
+      "S": "Gloria Dolfi"
+    },
+    "nicknames": {
+      "L": [
+        {
+          "S": "Gloria"
+        },
+        {
+          "S": "Dolfi"
+        }
+      ]
+    },
+    "age": {
+      "N": "22"
+    },
+    "contacts": {
+      "M": {
+        "phoneNumber": {
+          "S": "09239217208"
+        },
+        "email": {
+          "S": "GloriaDolfi@gmail.com"
+        }
+      }
+    }
+  },
+  {
+    "clubId": {
+      "S": "AWS-CC-2023-0008"
+    },
+    "fullName": {
+      "S": "Lee Kennedy"
+    },
+    "nicknames": {
+      "L": [
+        {
+          "S": "Lee"
+        },
+        {
+          "S": "Kennedy"
+        }
+      ]
+    },
+    "age": {
+      "N": "21"
+    },
+    "contacts": {
+      "M": {
+        "phoneNumber": {
+          "S": "09315207088"
+        },
+        "email": {
+          "S": "LeeKennedy@gmail.com"
+        }
+      }
+    }
+  },
+  {
+    "clubId": {
+      "S": "AWS-CC-2023-0009"
+    },
+    "fullName": {
+      "S": "Jasmine Kinney"
+    },
+    "nicknames": {
+      "L": [
+        {
+          "S": "Jasmine"
+        },
+        {
+          "S": "Kinney"
+        }
+      ]
+    },
+    "age": {
+      "N": "21"
+    },
+    "contacts": {
+      "M": {
+        "phoneNumber": {
+          "S": "09457303646"
+        },
+        "email": {
+          "S": "JasmineKinney@gmail.com"
+        }
+      }
+    }
+  },
+  {
+    "clubId": {
+      "S": "AWS-CC-2023-0010"
+    },
+    "fullName": {
+      "S": "Geoffrey Collins"
+    },
+    "nicknames": {
+      "L": [
+        {
+          "S": "Geoffrey"
+        },
+        {
+          "S": "Collins"
+        }
+      ]
+    },
+    "age": {
+      "N": "23"
+    },
+    "contacts": {
+      "M": {
+        "phoneNumber": {
+          "S": "09509821836"
+        },
+        "email": {
+          "S": "GeoffreyCollins@gmail.com"
+        }
+      }
+    }
+  },
+  {
+    "clubId": {
+      "S": "AWS-CC-2023-0011"
+    },
+    "fullName": {
+      "S": "Arlette Kaplan"
+    },
+    "nicknames": {
+      "L": [
+        {
+          "S": "Arlette"
+        },
+        {
+          "S": "Kaplan"
+        }
+      ]
+    },
+    "age": {
+      "N": "18"
+    },
+    "contacts": {
+      "M": {
+        "phoneNumber": {
+          "S": "09516818585"
+        },
+        "email": {
+          "S": "ArletteKaplan@gmail.com"
+        }
+      }
+    }
+  },
+  {
+    "clubId": {
+      "S": "AWS-CC-2023-0012"
+    },
+    "fullName": {
+      "S": "Donald Thomas"
+    },
+    "nicknames": {
+      "L": [
+        {
+          "S": "Donald"
+        },
+        {
+          "S": "Thomas"
+        }
+      ]
+    },
+    "age": {
+      "N": "20"
+    },
+    "contacts": {
+      "M": {
+        "phoneNumber": {
+          "S": "09995680772"
+        },
+        "email": {
+          "S": "DonaldThomas@gmail.com"
+        }
+      }
+    }
+  },
+  {
+    "clubId": {
+      "S": "AWS-CC-2023-0013"
+    },
+    "fullName": {
+      "S": "Theresa Rodriguez"
+    },
+    "nicknames": {
+      "L": [
+        {
+          "S": "Theresa"
+        },
+        {
+          "S": "Rodriguez"
+        }
+      ]
+    },
+    "age": {
+      "N": "21"
+    },
+    "contacts": {
+      "M": {
+        "phoneNumber": {
+          "S": "09817740938"
+        },
+        "email": {
+          "S": "TheresaRodriguez@gmail.com"
+        }
+      }
+    }
+  },
+  {
+    "clubId": {
+      "S": "AWS-CC-2023-0014"
+    },
+    "fullName": {
+      "S": "Anne Woods"
+    },
+    "nicknames": {
+      "L": [
+        {
+          "S": "Anne"
+        },
+        {
+          "S": "Woods"
+        }
+      ]
+    },
+    "age": {
+      "N": "22"
+    },
+    "contacts": {
+      "M": {
+        "phoneNumber": {
+          "S": "09780907760"
+        },
+        "email": {
+          "S": "AnneWoods@gmail.com"
+        }
+      }
+    }
+  },
+  {
+    "clubId": {
+      "S": "AWS-CC-2023-0015"
+    },
+    "fullName": {
+      "S": "Marissa Zebell"
+    },
+    "nicknames": {
+      "L": [
+        {
+          "S": "Marissa"
+        },
+        {
+          "S": "Zebell"
+        }
+      ]
+    },
+    "age": {
+      "N": "20"
+    },
+    "contacts": {
+      "M": {
+        "phoneNumber": {
+          "S": "09662884927"
+        },
+        "email": {
+          "S": "MarissaZebell@gmail.com"
+        }
+      }
+    }
+  },
+  {
+    "clubId": {
+      "S": "AWS-CC-2023-0016"
+    },
+    "fullName": {
+      "S": "Monica Hall"
+    },
+    "nicknames": {
+      "L": [
+        {
+          "S": "Monica"
+        },
+        {
+          "S": "Hall"
+        }
+      ]
+    },
+    "age": {
+      "N": "21"
+    },
+    "contacts": {
+      "M": {
+        "phoneNumber": {
+          "S": "09412171586"
+        },
+        "email": {
+          "S": "MonicaHall@gmail.com"
+        }
+      }
+    }
+  },
+  {
+    "clubId": {
+      "S": "AWS-CC-2023-0017"
+    },
+    "fullName": {
+      "S": "Kai Miller"
+    },
+    "nicknames": {
+      "L": [
+        {
+          "S": "Kai"
+        },
+        {
+          "S": "Miller"
+        }
+      ]
+    },
+    "age": {
+      "N": "22"
+    },
+    "contacts": {
+      "M": {
+        "phoneNumber": {
+          "S": "09824922589"
+        },
+        "email": {
+          "S": "KaiMiller@gmail.com"
+        }
+      }
+    }
+  },
+  {
+    "clubId": {
+      "S": "AWS-CC-2023-0018"
+    },
+    "fullName": {
+      "S": "William Berger"
+    },
+    "nicknames": {
+      "L": [
+        {
+          "S": "William"
+        },
+        {
+          "S": "Berger"
+        }
+      ]
+    },
+    "age": {
+      "N": "19"
+    },
+    "contacts": {
+      "M": {
+        "phoneNumber": {
+          "S": "09246712548"
+        },
+        "email": {
+          "S": "WilliamBerger@gmail.com"
+        }
+      }
+    }
+  },
+  {
+    "clubId": {
+      "S": "AWS-CC-2023-0019"
+    },
+    "fullName": {
+      "S": "Billy Robinson"
+    },
+    "nicknames": {
+      "L": [
+        {
+          "S": "Billy"
+        },
+        {
+          "S": "Robinson"
+        }
+      ]
+    },
+    "age": {
+      "N": "20"
+    },
+    "contacts": {
+      "M": {
+        "phoneNumber": {
+          "S": "09678203582"
+        },
+        "email": {
+          "S": "BillyRobinson@gmail.com"
+        }
+      }
+    }
+  },
+  {
+    "clubId": {
+      "S": "AWS-CC-2023-0020"
+    },
+    "fullName": {
+      "S": "Darlene Kulikowski"
+    },
+    "nicknames": {
+      "L": [
+        {
+          "S": "Darlene"
+        },
+        {
+          "S": "Kulikowski"
+        }
+      ]
+    },
+    "age": {
+      "N": "22"
+    },
+    "contacts": {
+      "M": {
+        "phoneNumber": {
+          "S": "09659894723"
+        },
+        "email": {
+          "S": "DarleneKulikowski@gmail.com"
+        }
+      }
+    }
+  },
+  {
+    "clubId": {
+      "S": "AWS-CC-2023-0021"
+    },
+    "fullName": {
+      "S": "Barbara Korsak"
+    },
+    "nicknames": {
+      "L": [
+        {
+          "S": "Barbara"
+        },
+        {
+          "S": "Korsak"
+        }
+      ]
+    },
+    "age": {
+      "N": "18"
+    },
+    "contacts": {
+      "M": {
+        "phoneNumber": {
+          "S": "09168266340"
+        },
+        "email": {
+          "S": "BarbaraKorsak@gmail.com"
+        }
+      }
+    }
+  },
+  {
+    "clubId": {
+      "S": "AWS-CC-2023-0022"
+    },
+    "fullName": {
+      "S": "Sandra Hledik"
+    },
+    "nicknames": {
+      "L": [
+        {
+          "S": "Sandra"
+        },
+        {
+          "S": "Hledik"
+        }
+      ]
+    },
+    "age": {
+      "N": "23"
+    },
+    "contacts": {
+      "M": {
+        "phoneNumber": {
+          "S": "09547821994"
+        },
+        "email": {
+          "S": "SandraHledik@gmail.com"
+        }
+      }
+    }
+  },
+  {
+    "clubId": {
+      "S": "AWS-CC-2023-0023"
+    },
+    "fullName": {
+      "S": "Michael James"
+    },
+    "nicknames": {
+      "L": [
+        {
+          "S": "Michael"
+        },
+        {
+          "S": "James"
+        }
+      ]
+    },
+    "age": {
+      "N": "21"
+    },
+    "contacts": {
+      "M": {
+        "phoneNumber": {
+          "S": "09930333110"
+        },
+        "email": {
+          "S": "MichaelJames@gmail.com"
+        }
+      }
+    }
+  },
+  {
+    "clubId": {
+      "S": "AWS-CC-2023-0024"
+    },
+    "fullName": {
+      "S": "Jon Gonzales"
+    },
+    "nicknames": {
+      "L": [
+        {
+          "S": "Jon"
+        },
+        {
+          "S": "Gonzales"
+        }
+      ]
+    },
+    "age": {
+      "N": "18"
+    },
+    "contacts": {
+      "M": {
+        "phoneNumber": {
+          "S": "09372765457"
+        },
+        "email": {
+          "S": "JonGonzales@gmail.com"
+        }
+      }
+    }
+  },
+  {
+    "clubId": {
+      "S": "AWS-CC-2023-0025"
+    },
+    "fullName": {
+      "S": "Joy Senegal"
+    },
+    "nicknames": {
+      "L": [
+        {
+          "S": "Joy"
+        },
+        {
+          "S": "Senegal"
+        }
+      ]
+    },
+    "age": {
+      "N": "18"
+    },
+    "contacts": {
+      "M": {
+        "phoneNumber": {
+          "S": "09300649799"
+        },
+        "email": {
+          "S": "JoySenegal@gmail.com"
+        }
+      }
+    }
+  }
+]
